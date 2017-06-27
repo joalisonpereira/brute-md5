@@ -2,6 +2,6 @@
 
 Script simples escrito em java para quebra de criptografia md5 em força bruta.
 
+# Execute
 
-Executar:
-java -jar BruteMD5.jar
+Execute com java -jar BruteMD5.jar
